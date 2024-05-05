@@ -40,7 +40,7 @@ git clone https://github.com/ahmetpyrzklnc/car_price_prediction.git
 
 ````
 
-Our model can predict car prices 87% correctly using a deep neural network model using Tensorflow!**
+Our model can predict car prices 97% correctly using a deep neural network model using Tensorflow!**
 
 
 :mailbox: You can reach me [here!](https://ahmetpyrzklnc.github.io/index.html)
